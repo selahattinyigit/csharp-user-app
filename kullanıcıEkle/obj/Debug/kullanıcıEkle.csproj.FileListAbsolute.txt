@@ -1,0 +1,13 @@
+C:\Users\Emre\Desktop\kullanıcıEkle\kullanıcıEkle\bin\Debug\kullanıcıEkle.exe
+C:\Users\Emre\Desktop\kullanıcıEkle\kullanıcıEkle\bin\Debug\kullanıcıEkle.pdb
+C:\Users\Emre\Desktop\kullanıcıEkle\kullanıcıEkle\obj\Debug\kullanıcıEkle.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\kullanıcıEkle\kullanıcıEkle\obj\Debug\kullanıcıEkle.Form1.resources
+C:\Users\Emre\Desktop\kullanıcıEkle\kullanıcıEkle\obj\Debug\kullanıcıEkle.Form2.resources
+C:\Users\Emre\Desktop\kullanıcıEkle\kullanıcıEkle\obj\Debug\kullanıcıEkle.Properties.Resources.resources
+C:\Users\Emre\Desktop\kullanıcıEkle\kullanıcıEkle\obj\Debug\kullanıcıEkle.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\kullanıcıEkle\kullanıcıEkle\obj\Debug\kullanıcıEkle.exe
+C:\Users\Emre\Desktop\kullanıcıEkle\kullanıcıEkle\obj\Debug\kullanıcıEkle.pdb
+C:\Users\Emre\Desktop\kullanıcıEkle\kullanıcıEkle\obj\Debug\kullanıcıEkle.Form3.resources
+C:\Users\Emre\Desktop\kullanıcıEkle\kullanıcıEkle\obj\Debug\kullanıcıEkle.Form4.resources
+C:\Users\Emre\Desktop\kullanıcıEkle\kullanıcıEkle\obj\Debug\kullanıcıEkle.Form5.resources
+C:\Users\Emre\Desktop\kullanıcıEkle\kullanıcıEkle\obj\Debug\kullanıcıEkle.Form6.resources
